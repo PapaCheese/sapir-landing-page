@@ -1,0 +1,141 @@
+.top-buttons {
+  z-index: 999;
+  direction: rtl;
+  justify-content: flex-start;
+  gap: 8px;
+  display: flex;
+  position: fixed;
+  top: 1em;
+  right: 1em;
+}
+
+.language-select {
+  color: #aedbe8;
+  background-color: #25325b;
+  border: 1px solid #aedbe8;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.contact-me {
+  color: #aedbe8;
+  background-color: #25325b;
+  border: 1px solid #aedbe8;
+  border-radius: 4px;
+  padding: 4px 8px;
+  text-decoration: none;
+}
+
+html, body {
+  background: #40255b;
+  margin: 0;
+  padding: 0;
+  font-family: Rubik, sans-serif;
+}
+
+main {
+  height: 300vh;
+}
+
+p {
+  color: #eee;
+}
+
+.banner {
+  height: 100vh;
+  background: #bbe8f6;
+}
+
+.title {
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: absolute;
+  top: 0;
+}
+
+.title h1 {
+  margin-bottom: 0;
+  font-size: 6vw;
+}
+
+.title .sub {
+  font-size: 4vw;
+}
+
+.about-me {
+  color: #fff;
+  padding: 32px 10vw;
+  font-size: 20px;
+}
+
+.about-me .more {
+  font-weight: 500;
+}
+
+.about-me .more:hover {
+  text-decoration: underline;
+}
+
+.services {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  background-color: #74a7bd;
+  justify-content: center;
+  gap: 32px;
+  padding: 64px 10vw;
+  display: flex;
+  overflow-x: auto;
+}
+
+.services::-webkit-scrollbar {
+  display: none;
+}
+
+.services .img-wrapper {
+  height: 300px;
+  min-width: 200px;
+  border-radius: 8px;
+  transition: all .2s ease-out;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 10px 10px #0000;
+}
+
+.services .img-wrapper:hover {
+  box-shadow: 0 10px 10px #00000080;
+}
+
+.services .img-wrapper img {
+  height: 150%;
+  background-size: cover;
+}
+
+.services .img-wrapper .desc {
+  height: 100%;
+  width: 100%;
+  color: #fff0;
+  background-color: #0000;
+  justify-content: center;
+  align-items: center;
+  transition: all .2s ease-out;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.services .desc:hover {
+  color: #fff;
+  background-color: #00000080;
+}
+
+footer {
+  color: #fff;
+  padding: 32px 10vw;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
