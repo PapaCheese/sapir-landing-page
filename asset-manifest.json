@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sapir-landing-page/static/css/main.297b5b20.css",
+    "main.js": "/sapir-landing-page/static/js/main.5598dd93.js",
+    "static/js/787.992023b2.chunk.js": "/sapir-landing-page/static/js/787.992023b2.chunk.js",
+    "static/media/bg-1.jpg": "/sapir-landing-page/static/media/bg-1.c49216641abeb6b10164.jpg",
+    "static/media/pic_10.jpg": "/sapir-landing-page/static/media/pic_10.efca34d88ca98fa53c15.jpg",
+    "static/media/bg-5.png": "/sapir-landing-page/static/media/bg-5.da85e523882e2412b383.png",
+    "static/media/pic_6.jpeg": "/sapir-landing-page/static/media/pic_6.fca6a0947e08d163a0e0.jpeg",
+    "static/media/pic_5.jpg": "/sapir-landing-page/static/media/pic_5.495b46df1a8acee6dabb.jpg",
+    "static/media/bg-3.png": "/sapir-landing-page/static/media/bg-3.593d4c638fbeb5b34fcc.png",
+    "static/media/bg-2.png": "/sapir-landing-page/static/media/bg-2.46bff3bcfeb46fcc771b.png",
+    "static/media/bg-4.png": "/sapir-landing-page/static/media/bg-4.9b50b570c5132925192c.png",
+    "index.html": "/sapir-landing-page/index.html",
+    "main.297b5b20.css.map": "/sapir-landing-page/static/css/main.297b5b20.css.map",
+    "main.5598dd93.js.map": "/sapir-landing-page/static/js/main.5598dd93.js.map",
+    "787.992023b2.chunk.js.map": "/sapir-landing-page/static/js/787.992023b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297b5b20.css",
+    "static/js/main.5598dd93.js"
+  ]
+}
