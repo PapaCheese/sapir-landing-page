@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sapir-landing-page/static/css/main.3e623f38.css",
+    "main.css": "/sapir-landing-page/static/css/main.1237e83c.css",
     "main.js": "/sapir-landing-page/static/js/main.7f7e0793.js",
     "static/media/pic_4.jpeg": "/sapir-landing-page/static/media/pic_4.f91fe65e46e4de566f39.jpeg",
     "static/media/pic_2.jpg": "/sapir-landing-page/static/media/pic_2.d787f099956490dc09d2.jpg",
@@ -8,11 +8,11 @@
     "static/media/pic_5.jpg": "/sapir-landing-page/static/media/pic_5.495b46df1a8acee6dabb.jpg",
     "static/media/tightrope.svg": "/sapir-landing-page/static/media/tightrope.e137666d4b839db001cc73aa33ce0dae.svg",
     "index.html": "/sapir-landing-page/index.html",
-    "main.3e623f38.css.map": "/sapir-landing-page/static/css/main.3e623f38.css.map",
+    "main.1237e83c.css.map": "/sapir-landing-page/static/css/main.1237e83c.css.map",
     "main.7f7e0793.js.map": "/sapir-landing-page/static/js/main.7f7e0793.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e623f38.css",
+    "static/css/main.1237e83c.css",
     "static/js/main.7f7e0793.js"
   ]
 }
